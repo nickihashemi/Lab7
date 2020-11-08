@@ -6,8 +6,8 @@ package com.company;
 public class Judge {
 
     /**
-     * if there is a judge, it returns the number assigned to the judge
-     * if there isn't a judge, it returns -1
+     * If there is a judge, it returns the number assigned to the judge
+     * If there isn't a judge, it returns -1
      * @param N
      * @param trust
      * @return
